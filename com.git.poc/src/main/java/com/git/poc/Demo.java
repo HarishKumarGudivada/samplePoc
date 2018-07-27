@@ -3,7 +3,6 @@ package com.git.poc;
 public class Demo {
 	
 	public static void main(String[] args) {
-		System.out.println("HelloWorld");
 		Demo d=new Demo();
 		d.printMessage();
 	}
